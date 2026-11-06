@@ -1,6 +1,6 @@
 # Shoot Loop
 
-An interactive music looper built with ChucK and ChuGL. Shoot moving targets to play sounds and build loops.
+An interactive music-making game built with ChucK and ChuGL. Shoot moving targets to play sounds and build loops.
 
 ![Shoot Loop](images/shootLoop1.png)
 
