@@ -4,7 +4,7 @@ An interactive music looper built with ChucK and ChuGL. Shoot moving targets to 
 
 ![Shoot Loop](images/shootLoop1.png)
 
-[DEMO](https://www.youtube.com/watch?v=1sUCQeM3lJg)
+[Watch Demo Video on YouTube](https://www.youtube.com/watch?v=1sUCQeM3lJg)
 
 ### Run
 
